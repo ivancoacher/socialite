@@ -1,0 +1,14 @@
+{
+    "name": "xiaoxiu/socialite",
+    "description": "third part socialite package",
+    "require": {
+        "../../../vendor/guzzlehttp/guzzle": "7.4.x-dev"
+    },
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "it037218@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
