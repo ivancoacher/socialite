@@ -7,5 +7,10 @@
             "email": "it037218@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Xiaoxiu\\Socialite\\": "src/"
+        }
+    }
 }
