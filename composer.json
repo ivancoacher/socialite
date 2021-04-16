@@ -1,5 +1,5 @@
 {
-    "name": "xiaoxiu/socialite",
+    "name": "xiaoniu/socialite",
     "description": "third part socialite package",
     "authors": [
         {
@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Xiaoxiu\\Socialite\\": "src/"
+            "xiaoniu\\Socialite\\": "src/"
         }
     }
 }
