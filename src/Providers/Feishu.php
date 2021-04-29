@@ -379,7 +379,7 @@ class Feishu extends Base
                     'headers' => ['Content-Type' => 'application/json', 'Authorization' => 'Bearer ' . $this->config->get('tenant_access_token')],
                     'query' => array_filter(
                         [
-                            'status' => [2, 4],
+//                            'status' => [2, 4],
                             'user_id_type' => 'union_id'
                         ]
                     ),
